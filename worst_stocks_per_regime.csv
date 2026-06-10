@@ -1,0 +1,6 @@
+regime,ticker,avg_daily_return_pct
+Bear,AMD,-0.77
+Bull,^DJI,0.17
+Crisis,JNJ,-0.4
+High-volatility,NFLX,-1.28
+Sideways,AMZN,-0.18
